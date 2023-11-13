@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    font-family: tahoma;
+}
+div {
+    width: 100%;
+    text-align: center;
+}
+
+.secao-menu {
+    background-color: #93D8FF;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.img-logo{
+    width: 200px; 
+}
+
+.secao a {
+    padding: 10px;
+}
+
+.secao {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: normal;
+    color: #117DAA;
+}
+
+h3 {
+    font-size: 30px;
+    color: #fff;
+}
+
+.secao-corretores h3 {
+    color: #117DAA;
+}
+
+.secao-sobre p, .secao-corretores p{
+    width: 1100px;
+    margin: 0 auto;
+    padding-top: 20px;
+    line-height: 30px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+
+
+.secao-sobre img, .secao-corretores img {
+    width: 500px;
+}
+
+.secao-servicos, .secao-contatos {
+    background-color: #117DAA;
+    color: #fff; 
+}
+
+.secao-servicos p, .secao-contatos p {
+    width: 600PX;
+    margin: 0 auto;
+    font-size: 20px;
+    line-height: 50px;
+}
